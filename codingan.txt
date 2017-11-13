@@ -1,6 +1,7 @@
 <?php
 	echo "coba test";ASDASDASDASD;iiiiii;
 	echo "coba test";ASDASDASDASD;
-diowejofwejifjweiofjiowe
-qwdqwdqwd
+diowejofwejif
+tes lagi
+
 ?>
